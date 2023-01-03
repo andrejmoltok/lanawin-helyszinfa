@@ -1,3 +1,3 @@
-# lanawin-helyszínfa
+# Lanawin helyszínfa repo
 
-Lanawin helyszínfa
+Lanawin helyszínfa repo
