@@ -52,7 +52,6 @@ vilagt.addEventListener('click', function(event) {
                     artheniorOff();
                     count = 0;
                 }
-                
                 console.log('Arthenior Közelében');
                 //alert('Arthenior Közelében');
         } else if (y > element.top && y < element.top + element.height 
